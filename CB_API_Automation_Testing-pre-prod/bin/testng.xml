@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression Test Suite">
+    <!-- Positive Tests -->
+    <test name="PositiveTests" preserve-order="true">
+        <packages>
+            <package name="com.capestart.advancecpqv2test.positivetest.*" />
+        </packages>
+    </test>
+    <!-- Negative Tests -->
+    <test name="NegativeTests" preserve-order="true">
+        <packages>
+            <package name="com.capestart.advancecpqv2test.negativetest.*" />
+        </packages>
+    </test>
+</suite>

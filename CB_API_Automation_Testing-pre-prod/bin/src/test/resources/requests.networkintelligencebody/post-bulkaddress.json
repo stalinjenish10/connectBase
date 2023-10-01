@@ -1,0 +1,19 @@
+{
+  "addresses": [
+    {
+      "address": "7505 John W. Carpenter Freeway",
+      "city": "Lone Tree",
+      "state": "TX",
+      "zipcode": "75247",
+      "country": "USA"
+    },
+    {
+      "address": "10055 Library Way",
+      "city": "Lone Tree",
+      "state": "CO",
+      "zipcode": "80124",
+      "country": "USA"
+    }
+  ],
+  "request_id": "1001-SA-11"
+}

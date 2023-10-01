@@ -1,0 +1,14 @@
+
+{    
+    "buildingname": "769 SM ST",  
+    "buildingCategory": ["Airport"],
+    "street": "769 CM St",
+    "city": "Santa Clara",
+    "state": "California",
+    "country": "United States",
+    "postal": "95054",
+    "latitude": "40.323553",
+    "longitude": "-90.967177",
+    "networkBuildStatus": "Prospect",
+    "buildingConnectionStatus": "Prosp"
+}

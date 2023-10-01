@@ -1,0 +1,56 @@
+{
+  "quoteName": "Post create pricing test",
+  "config": {
+    "productCriteria": [
+      {
+        "product": "Broadband",
+        "mediaTypes": [
+          "Fiber"
+        ],
+        "channel": "Default",
+        "pricingAccountName": "AT&T",
+        "term": [
+          "MTM",
+          12,
+          24,
+          36,
+          48,
+          60
+        ],
+        "includeOffnet": false,
+        "smartResultsPerSupplier": 1,
+        "speedParameterDownload": {
+          "equal": [
+            10,
+            50,
+            100
+          ]
+        },
+        "speedParameterUpload": {
+          "equal": [
+            10,
+            50,
+            100
+          ]
+        },
+        "selection": {
+          "desiredSpeed": 90,
+          "desiredUploadSpeed": 10,
+          "speedPriority": "download",
+          "desiredTerm": "MTM",
+          "pricingCriteria": "OnNet",
+          "required": true
+        }
+      }
+    ]
+  },
+  "locations": [
+    {
+      "address": "1961 Chain Bridge Rd, McLean,VA,20102,USA",
+      "customerLocationId": "Myinternalid123",
+      "siteCategory": "OffNet",
+      "siteName": "value",
+      "siteId": "value"
+    }
+  ]
+}

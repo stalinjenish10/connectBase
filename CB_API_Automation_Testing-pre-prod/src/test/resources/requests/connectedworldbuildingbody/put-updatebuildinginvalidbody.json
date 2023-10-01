@@ -1,0 +1,23 @@
+
+{
+    "buildingname": "7954 Martin St",
+    "street": "2974 Hayden St",
+    "country": "United States",
+    "state": "California",
+    "city": "Santa Clara",
+    "postal": "95054",
+    "latitude": "37.374754",
+    "longitude": "-121.952848",
+    "primaryNumber": "1223",
+    "streetName": "Comstock",
+    "streetSuffix": "St",
+    "buildingCategory": [
+        "Commercial Building"
+    ],
+    "networkBuildStatus": "Prospect",
+    "buildingConnectionStatus": "Prosp",
+    "accessMediums": [
+        "Fiber"
+    ],
+    "elevation": 0.0
+}

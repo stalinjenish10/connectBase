@@ -1,0 +1,14 @@
+
+{    
+    "buildingname": "1489 Ricky ST",  
+    "buildingCategory": ["Airport"],
+    "street": "1698 Ponting St",
+    "city": "Woodway",
+    "state": "Texas",
+    "country": "United States",
+    "postal": "95054",
+    "latitude": "40.323553",
+    "longitude": "-90.967177",
+    "networkBuildStatus": "Connected",
+    "buildingConnectionStatus": "OffNet"
+}
